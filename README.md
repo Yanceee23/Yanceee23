@@ -1,27 +1,23 @@
 # Hola, soy Yancy Abarca 👋
-### Especialista en Análisis de Datos & IA 
+###  Especialista en Análisis de Datos y Desarrollo de Soluciones con IA — convierto datos en decisiones estratégicas y construyo aplicaciones inteligentes de vanguardia
 
-> Transformo datos en soluciones reales usando Python, SQL, Power BI e Inteligencia Artificial.
 
----
-
-## 🧠 Sobre mí
+##  Sobre mí
 
 - 📊 Analista de Datos certificada — **Certiport **
-- 🤖 Desarrolladora de soluciones con **Inteligencia Artificial**
 - 📱 Creadora de apps móviles con IA integrada
-- 📬 Contáctame: [[LinkedIn](https://www.linkedin.com/in/yancy-abarca)](https://www.linkedin.com/in/yancy-abarca-2a3890380) 
+- 📬 Red de contacto: [[LinkedIn](https://www.linkedin.com/in/yancy-abarca)](https://www.linkedin.com/in/yancy-abarca-2a3890380) 
 
 ---
 
 ## 🛠️ Mis Habilidades
 
-### Lenguajes & Datos
+### Lenguajes Y Datos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Visualización & BI
+### Visualización Y BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -31,12 +27,15 @@
 ![Full IA Programming](https://img.shields.io/badge/Programación_Full_IA-7C3AED?style=for-the-badge&logo=brain&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Hardware & Otros
+### Hardware Y Otros
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Metodologías & Arquitectura
+### Metodologías Y Arquitectura
 ![Metodologías Ágiles](https://img.shields.io/badge/Metodologías_Ágiles-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Arquitectura de Software](https://img.shields.io/badge/Arquitectura_de_Software-1E293B?style=for-the-badge&logo=blueprint&logoColor=white)
+
+![Modelos de Datos](https://img.shields.io/badge/Modelos_de_Datos-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning_(conceptos)-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,7 +48,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
