@@ -44,7 +44,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=python&logoColor=white).
 
 ---
 
