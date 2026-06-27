@@ -36,7 +36,7 @@
 
 ### Ciencia de Datos & ML
 ![Estadística](https://img.shields.io/badge/Estadística-6366F1?style=for-the-badge&logo=scipy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning_(conceptos)-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning_(conceptos)-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white).
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
