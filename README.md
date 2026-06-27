@@ -61,13 +61,5 @@
 
 
 
----
 
-## 📊 Estadísticas GitHub
 
-![Yancy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanceee23&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanceee23&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-⭐ *Si alguno de mis proyectos te fue útil, dale una estrella!*
