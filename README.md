@@ -38,9 +38,6 @@
 ![Metodologías Ágiles](https://img.shields.io/badge/Metodologías_Ágiles-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Arquitectura de Software](https://img.shields.io/badge/Arquitectura_de_Software-1E293B?style=for-the-badge&logo=blueprint&logoColor=white)
 
-### Hardware Y Otros
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -49,6 +46,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=python&logoColor=white).
+
+### Hardware Y Otros
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
