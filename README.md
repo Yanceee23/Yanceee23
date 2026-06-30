@@ -1,4 +1,4 @@
-# Hola, soy Yancy Abarca 👋
+# Hola, soy Yancy Abarca 
 ###  Especialista en Análisis de Datos y Desarrollo de Soluciones con IA — convierto datos en decisiones estratégicas y construyo aplicaciones inteligentes de vanguardia
 
 
