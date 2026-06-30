@@ -48,7 +48,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=python&logoColor=white).
 
 ### Hardware Y Otros
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white).
 
 ---
 
